@@ -7,7 +7,8 @@
 ## Multivariable Calculus
 
 * [Home](multivariable-calculus/home.md)
-* [Vectors and Matricies](multivariable-calculus/vectors-and-matricies.md)
+* [Vectors](multivariable-calculus/vectors-and-matricies.md)
+* [Matricies](multivariable-calculus/matricies.md)
 * [Partial Derivatives](multivariable-calculus/partial-derivatives.md)
 * [Double Integrals and Line Integrals in the Plane](multivariable-calculus/double-integrals-and-line-integrals-in-the-plane.md)
 * [Triple Integrals and Surface Integrals in 3-D Space](multivariable-calculus/triple-integrals-and-surface-integrals-in-3-d-space.md)
