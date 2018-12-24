@@ -16,7 +16,7 @@ In gaining fluency with vector operations, this section will introduce a few tec
 
 ## Section 1
 
-Section 1 corresponds to the first lecture from OCW 18.02. Readings include:
+Section 1 corresponds to the [first lecture from OCW 18.02.](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors) Readings include:
 
 * [Introduction to vectors](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_notes_0.pdf)
   * [Vector lengths](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_we_2_comb.pdf)
