@@ -1,6 +1,6 @@
 # Vectors
 
-## Section Goals
+## Chapter Goals
 
 The more overarching goal of this section is to complete the first goal in the 18.02 syllabus:
 
@@ -14,9 +14,21 @@ In gaining fluency with vector operations, this section will introduce a few tec
 * Determinant
 * Cross product
 
+## Section 1
 
+Section 1 corresponds to the first lecture from OCW 18.02. Readings include:
 
-### Section 1: Basic operations
+* [Introduction to vectors](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_notes_0.pdf)
+  * [Vector lengths](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_we_2_comb.pdf)
+  * [Force is a vector](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_we_3_comb.pdf)
+  * [Proofs using vectors](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_we_4_comb.pdf)
+  * [Vector problems](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-1-vectors/MIT18_02SC_pb_1_quest.pdf)
+* [Dot product](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-2-dot-products/MIT18_02SC_notes_1.pdf)
+  * [Dot product problems](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-2-dot-products/MIT18_02SC_pb_2_quest.pdf)
+  * [Uses of the dot product](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles/MIT18_02SC_we_5_comb.pdf)
+  * [Uses of the dot product problems](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/1.-vectors-and-matrices/part-a-vectors-determinants-and-planes/session-3-uses-of-the-dot-product-lengths-and-angles/MIT18_02SC_pb_3_quest.pdf)
+
+### Introduction to vectors
 
 Vectors can be described geometrically as a thing \(technical term\) that has both a magnitude and a direction. 
 
@@ -39,7 +51,7 @@ We can represent vectors geometrically, as seen in the figure above.
 
 
 
-
+### 
 
 
 
