@@ -49,6 +49,10 @@ We can represent vectors geometrically, as seen in the figure above.
 {% endtab %}
 {% endtabs %}
 
+Any vector can also be written in algebraic form. Any vector has components in the x, y, z, etc plane. A vector that has a length of 1 along the x axis can be written as $$<1, 0, 0, ...>$$. With a length of 1 along the y axis: $$<0, 1, 0, ...>$$, etc. I'll generally just use 2 or 3 numbers for 2 or 3 dimensions. 
+
+The length of any vector with $$<x, y>$$ components is just $$\sqrt{x^2 + y^2}$$ \(just the Pythagorean theorem, remember?\). This can be generalized to n dimensions, so the length of any vector $$<x, y, z, ...>$$ is $$\sqrt{x^2 + y^2 + z^2 ...}$$ . 
+
 
 
 ### 
