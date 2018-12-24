@@ -10,9 +10,27 @@ Fluency with vector operations, including vector proofs and the ability to trans
 
 In gaining fluency with vector operations, this section will introduce a few technical skills:
 
-determinants of vectors
+* Dot product
+* Determinant
+* Cross product
 
-This section will then build on vector operations 
+
+
+### Section 1: Basic operations
+
+Vectors can be described geometrically with a magnitude and direction. Here's an example:
+
+{% tabs %}
+{% tab title="Question V1" %}
+a\) A river flows at 3 mph and a rower rows at 6 mph. What heading should the rower take to go straight across a river? b\) Answer the same question if the river flows at 6 mph and the rower rows at 3 mph.
+{% endtab %}
+
+{% tab title="Answer" %}
+
+{% endtab %}
+{% endtabs %}
+
+
 
 
 
